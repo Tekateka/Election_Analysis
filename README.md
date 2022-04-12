@@ -109,7 +109,7 @@ Election data were analyzed using repetition and conditional statements with log
     txt_file.write(winning_county_summary)
 
 # TERMINAL 
-- Please find the attched file results 
+- Please find the attched results 
 ![](Candidates_Counties.PNG)
 
 ## Deliverable 3. (Overview of election audit and purpose are presented at the top)
