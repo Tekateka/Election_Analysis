@@ -15,7 +15,7 @@ Election data were analyzed using repetition and conditional statements with log
 ![](Candidates_votes.PNG)  
 ![](Winner.PNG)
 
-# Deliverable 1 .
+## Deliverable 1.
 
 ### 1. Total Votes in the election are printed to the terminal (attched in PNG file)
 
@@ -68,7 +68,7 @@ Election data were analyzed using repetition and conditional statements with log
 
 ![](Winner.PNG)
 
-#### Deriverable 2: Election Results Saved to a Text File (Terminal attached in PNG file).
+## Deriverable 2: Election Results Saved to a Text File (Terminal attached in PNG file).
 
 ##### A. Each county and its's total vote count, each county and it's percentage of the total votes, and county with the largest number of voters 
 
@@ -109,10 +109,10 @@ Election data were analyzed using repetition and conditional statements with log
     txt_file.write(winning_county_summary)
 
 # TERMINAL 
-
+- Please find the attched file results 
 ![](Candidates_Counties.PNG)
 
-# Deliverable 3. (Overview of election audit and purpose are presented at the top)
+## Deliverable 3. (Overview of election audit and purpose are presented at the top)
 
 ## 2. Election-Audit Results (Attached please find the text file and python script)
 
@@ -123,7 +123,7 @@ Election data were analyzed using repetition and conditional statements with log
     11,606 votes, and 23.0%, 73.8%, 3.1% percentage of total votes, respectively. 
   - Diana DeGette won the election with 272,892 vote count and 73.8% total votes. 
 
-# 3. Election-Audit Summary 
+## 3. Election-Audit Summary 
 
 I would propose to use this script for future election performance because this python script can be used as a template for any type of elections (federal or parliamentary elections) with some modifications, and it can be a valuable resource for the board. The script can also use as a baseline to modify and analyze for petitions, games and races. The script can be modified by adding data such as gender, age, ethnicity, and party affiliation columns to analyze the age, gender and party status of the voters and candidates as well. We can also access the voting methods; Mail-In Ballot, Punch Cards and Direct Recording Electronics, example the amount of votes cast by mail vs in person. 
 
