@@ -17,7 +17,7 @@ Election data were analyzed using repetition and conditional statements with log
 
 ## Deliverable 1.
 
-### 1. Total Votes in the election are printed to the terminal (attched in PNG file)
+### 1. Total Votes in the election are printed to the terminal 
 
   with open(file_to_save, "w") as txt_file:
 
@@ -31,7 +31,7 @@ Election data were analyzed using repetition and conditional statements with log
 
     txt_file.write(election_results)
 
-### TERMINAL 
+#### TERMINAL 
 ![](Total.PNG)
 
 #### 2. Each candidates total votes, percentage of the vote, winner of the    election, winning vote count, and winning percentage of votes.
@@ -68,7 +68,7 @@ Election data were analyzed using repetition and conditional statements with log
 
 ![](Winner.PNG)
 
-## Deriverable 2: Election Results Saved to a Text File (Terminal attached in PNG file).
+### Deriverable 2: Election Results Saved to a Text File (Terminal attached in PNG file).
 
 ##### A. Each county and its's total vote count, each county and it's percentage of the total votes, and county with the largest number of voters 
 
@@ -109,7 +109,7 @@ Election data were analyzed using repetition and conditional statements with log
     txt_file.write(winning_county_summary)
 
 # TERMINAL 
-- Please find the attched results 
+- Terminal attached in PNG file
 ![](Candidates_Counties.PNG)
 
 ## Deliverable 3. (Overview of election audit and purpose are presented at the top)
